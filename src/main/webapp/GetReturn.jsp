@@ -75,7 +75,7 @@
   </tbody>
 </table>
       
-    	<h1><center>Matching User</center></h1>
+    	<h1><center>The Starting and Ending Price Data</center></h1>
 	<table class="table table-hover">
 	  <thead>
 	    <tr>
